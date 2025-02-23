@@ -1,4 +1,4 @@
-## Portfolio Optimization: Classical Methods vs. Deep Reinforcement Learning
+## Algorithm Trading
 
 This repository contains an example-based walkthrough of mean-variance optimization using the [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) library. The focus is on demonstrating effective methods for portfolio optimization, from basic covariance calculations to complex constrained optimizations.
 
